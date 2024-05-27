@@ -1,5 +1,5 @@
 
-# Create a BMI Calculation Application
+# Creating a BMI Calculator Application
 
 from pywebio.input import *
 from pywebio.output import *

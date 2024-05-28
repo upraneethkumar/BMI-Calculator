@@ -43,3 +43,30 @@ Run the application using the following command:
 
 ```bash
 python bmi_calculator.py
+
+
+Code Explanation
+The main script bmi_calculator.py contains the following:
+
+Input Section: Prompts the user to enter height and weight.
+Calculation Section: Calculates BMI using the formula:
+BMI
+=
+weight (kg)
+(
+height (cm)
+100
+)
+2
+BMI= 
+( 
+100
+height (cm)
+​
+ ) 
+2
+ 
+weight (kg)
+​
+ 
+Output Section: Displays the BMI value and its interpretation based on predefined categories.

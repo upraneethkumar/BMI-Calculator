@@ -22,13 +22,13 @@ This application allows users to input their height in centimeters and weight in
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/bmi-calculator.git
+    git clone https://github.com/upraneethkumar/bmi_calculator.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd bmi-calculator
+    cd bmi_calculator
     ```
 
 3. Install the required packages:
